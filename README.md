@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sriram😙
+
+I am a College Student who is interested in artificial intelligence, machine learning, and deep learning.
+
+✨Skills:
+
+* Machine learning o(￣▽￣)ｄ
+
+* Deep learning (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+* Web Scrapping ✪ ω ✪
+
+* Writer !(*￣(￣　*)
+
+* Guitar Player ♪(´▽｀)
+
+⚒Projects (⚠I consider you worth checking out!! **For now** ):
+
+  * 🐣[SkimLit (Getting Clear Information from medical Abstract Texts)](https://github.com/sriram403/SkimLit_Project)
+
+  * 🤖[WebScrapping(Collecting images for our AI using `Beautifulsoup`,`selenium`)](https://github.com/sriram403/ImageCollecter)
+
+  * 🛰[Classifying Images which are taken from satellite's](https://github.com/sriram403/MachineLearningBlogs/blob/main/ImageClassificationRealWorld_Satellite.ipynb)
+
+🔏Blog:
+
+  📝 I like to write about my work and share my knowledge on my blog. Check it out at [justdoitanything.hashnode.dev](https://justdoitanything.hashnode.dev).
+
+**Thank you for visiting my profile!**
